@@ -8,7 +8,7 @@ function MainHeader() {
     <header className={classes.header}>
       <h1 className={classes.logo}>
         <MdMessage />
-        React Poster
+        React Post-List
       </h1>
       <p>
         <Link to="/create-post" className={classes.button} >
