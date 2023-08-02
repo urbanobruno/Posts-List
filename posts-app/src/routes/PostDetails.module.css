@@ -22,3 +22,21 @@
 .details a {
   text-decoration: none;
 }
+
+.delete_div {
+  display: flex;
+  justify-content: space-between;
+  align-items: right;
+  padding-top: 8px;
+}
+
+.delete_button {
+  background-color: #ff4d4d;
+  color: #ffffff;
+  border: none;
+  border-radius: 5%; 
+  padding: 3px;
+  margin: 3px;
+  cursor: pointer;
+  align-self: right;
+}
