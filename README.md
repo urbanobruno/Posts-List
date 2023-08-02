@@ -1,7 +1,11 @@
 # posts-list
 Uma aplicação web para gerenciar posts. Desenvolvida com React, React-router-dom e Node.js
 
-TODO colocar imagem demostrativa
+![Imagem demostrativa do Site](imagens/react-post-list.png "Imagem demostrativa do Site")
+
+Vídeo demostrativo do Site: 
+
+![Vídeo demostrativa do Site](imagens/video_posts_react.mp4 "Vídeo demostrativa do Site")
 
 ## Instruções para Executar o Sistema
 Para executar o sistema localmente, siga as etapas abaixo:
